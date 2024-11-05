@@ -16,7 +16,7 @@ base_url = 'https://www.flipkart.com/search?p%5B%5D=facets.brand%255B%255D%3DSam
 all_products = []
 
 # Loop through a specific number of pages
-for page in range(10, 11):  # show example(1-9 page)
+for page in range(1, 37):  # show example(1-9 page)
     url = f"{base_url}{page}"
     driver.get(url)
 
@@ -75,7 +75,7 @@ for page in range(10, 11):  # show example(1-9 page)
 df = pd.DataFrame(all_products)
 
 # Save the DataFrame to a CSV file
-df.to_csv("Samsung_Phone2.csv", index=False)
+df.to_csv("Samsung_Phone_37.csv", index=False)
 print("Product details have been saved to 'Samsung_Phone.csv'")
 
 # Close the browser
