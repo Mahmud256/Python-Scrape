@@ -1,0 +1,74 @@
+[
+    {
+        "name":"Lenovo Legion Pro 7 16IRX9H 14th Gen Intel Core i9-14900HX NVIDIA RTX 4080 With 12GB Graphic 16\" Gaming Laptop",
+        "brand":"laptop",
+        "description":"Model: Lenovo Legion Pro 7 16IRX9HProcessor: 14th Gen Intel Core i9-14900HXRam: 32GB DDR5-5600, 2x SO-DIMMStorage: 2x 1TB M.2 PCIe\u00ae NVMe\u00ae SSDGraphic: NVIDIA\u00ae GeForce RTX 4080 Laptop GPU 12GB GDDR6Display: 16\" (2560x1600) IPS, 500nits, 100% DCI-P3, 240Hz",
+        "price":"370000",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/Lenovo-Legion-Pro-7-16IRX9H-a-8896.jpg"
+    },
+    {
+        "name":"Lenovo IdeaPad Slim 3 14IRH8 13th Gen Intel Core i5-13420H Intel UHD Graphics 14\" FHD Laptop",
+        "brand":"laptop",
+        "description":"Model: Lenovo IdeaPad Slim 3 14IRH8Processor: Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)Graphics: Integrated UHD GraphicsRAM: 8GB LPDDR5-4800Storage: 512GB M.2 2242 PCIe NVMe SSDDisplay: 14\"\u00a0 (1920x1080)",
+        "price":"62000",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/Lenovo-IdeaPad-Slim-3-15IRH8-a-7824.jpg"
+    },
+    {
+        "name":"Dell XPS 13 Plus 9320 13th Gen Intel Core i7-1360P Intel Iris Xe Graphics 13.4\" FHD+ Laptop",
+        "brand":"laptop",
+        "description":"Model: Dell XPS 13 Plus 9320Processor: 13th Gen Intel\u00ae Core\u2122 i7-1360P,Upto 5.00 GHzGraphic: Intel\u00ae Iris\u00ae Xe GraphicsRAM: 16|32 GB LPDDR5, 6000 MT/s (onboard), dual-channelStorage: 512GB|1 TB, M.2, PCIe NVMe, SSDDisplay: 13.4\", FHD+ 1920x1200, 60Hz, Touch, Anti-Reflect, 500 nit, Infinity Edge",
+        "price":"265000",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/Dell-XPS-13-Plus-9320-a-5036.jpg"
+    },
+    {
+        "name":"HP VICTUS 15-fb1013nn AMD R5 7535HS NVIDIA RTX 2050 4GB Graphics 15.6\" FHD Gaming Laptop",
+        "brand":"laptop",
+        "description":"Model: VICTUS 15-fb1013nnProcessor: AMD R5 7535HSRAM: 16GB DDR5Storage: 512GB PCIe\u00ae Gen4 NVMe\u2122 TLC M.2 SSDGraphics: NVIDIA GeForce RTX 2050",
+        "price":"83500",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/HP---V~1-6289.JPG"
+    },
+    {
+        "name":"MacBook Pro M2 Pro 14-Inch 16GB/1TB 12 Core CPU 19 Core GPU - Silver",
+        "brand":"laptop",
+        "description":"Apple Store 1 Year Warranty Support",
+        "price":"281000",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/MacBook-Pro-M2-Pro-Silver-a-8485.jpg"
+    },
+    {
+        "name":"ASUS VivoBook 15 X1504ZA 12th Gen Intel Core i7-1255U Intel Iris Xe Graphics 15.6\"FHD Laptop",
+        "brand":"laptop",
+        "description":"Model: ASUS VivoBook 15 X1504ZAProcessor:12th Gen Intel\u00aeCore\u2122 i7-1255U Processor 1.7 GHzGraphic: Intel Iris X\u1d49 GraphicsRam: 16GB DDR4 3200Mz on boardStorage: 1TB M.2 NVMe\u2122 PCIe\u00ae 3.0 SSDDisplay: 15.6\"FHD(1920 x 1080),16:9 aspect ratio,60Hz,250nits,45% NTSC.",
+        "price":null,
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/ASUS-VivoBook-X1502ZA-4094.jpg"
+    },
+    {
+        "name":"Acer Predator Helios Neo 16 PHN16 Core i7-13700HX 13th Gen RTX 4060 8GB Graphics 16\u2033 WQXGA Gaming Laptop",
+        "brand":"laptop",
+        "description":"Model: Predator Helios Neo 16 PHN16Processor: 13th Gen Intel\u00ae Core i7-13700HXGraphics: NVIDIA GeForce RTX 4060 8GB GDDR6RAM: 16GB DDR5Storage: 1TB M.2 NVMe PCIe Gen4 SSDDisplay: 16\u2033 WQXGA,165Hz,sRGB100%, high-brightness (400 nits)",
+        "price":null,
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/Predator-Helios-Neo-16-PHN16-7826.jpg"
+    },
+    {
+        "name":"DELL G15 G15RE-A362GRY-PUS AMD Ryzen 5 6600H NVIDIA GeForce RTX 3050 with 4GB Graphics  15.6\" Gaming Laptop",
+        "brand":"laptop",
+        "description":"Model: DELL G15 G15RE-A362GRY-PUSProcessor: AMD\u00ae Ryzen\u2122 5 6600H Mobile Processor,4.5 gigahertzGraphic: NVIDIA GeForce RTX 3050 with 4GB GDDR6 dedicatedRAM: 8GB DDR5 4800 megahertzStorage: 512GB M.2 PCIe NVMe Solid State DriveDisplay: 15.6\" 120Hz FHD (1920 x 1080),Refresh Rate 120Hz",
+        "price":"113000",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/DELL-G15-G15RE-A362GRY-PUS-a-2055.jpg"
+    },
+    {
+        "name":"HP 14s-dq5164nia -83Q82EA 12th Gen Intel Core i7-1255 Intel Iris Xe graphics 14\" FHD Laptop",
+        "brand":"laptop",
+        "description":"Model: HP 14s-dq5164nia (83Q82EA)Processor: Intel Core i7-1255U (upto 4.7 GHz with Intel Turbo Boost Technology)Graphics: Integrated Intel Iris Xe GraphicsRAM: 8GB DDR4 3200Storage: 512GB SSDDisplay: 14\"FHD (1920 x 1080),IPS Display, Bright View",
+        "price":"88500",
+        "category":"laptop",
+        "Photos":"https://adminapi.vertech.com.bd/storage/media/large/HP-2185.jpg"
+    }
+]
